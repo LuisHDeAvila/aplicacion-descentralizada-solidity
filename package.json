@@ -1,0 +1,27 @@
+{
+  "name": "fstcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisHDeAvila/aplicacion-descentralizada-solidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisHDeAvila/aplicacion-descentralizada-solidity/issues"
+  },
+  "homepage": "https://github.com/LuisHDeAvila/aplicacion-descentralizada-solidity#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lite-server": "^2.6.1"
+  }
+}
