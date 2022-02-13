@@ -1,10 +1,14 @@
-# aplicacion-descentralizada-solidity
-aplicacion hecha sobre la red ethereum con solidity.
-requisitos de desarrollo:
+# Aplicacion-Descentralizada-Solidity
+Aplicacion sencilla hecha sobre una blockchain con Solidity y Nodejs (usando Smart Contracts)
+
+
+Requisitos de desarrollo:
 ```
-ganache 
-truffle 
-kcrackend  (mi distro linux tiene el entorno perfecto para este tipo de tecnologia)
+  [#root#]   >_       npm install -g ganache truffle
+   
+  
+```
 
 
-### esto es BLOCKCHAIN DEVELOPMENT
+
+## esto es BLOCKCHAIN DEVELOPMENT
